@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="docs/img/logo.png" alt="SolarStock" height="80">
-</p>
-
 <h1 align="center">SolarStock</h1>
 
 <p align="center">
