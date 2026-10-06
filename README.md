@@ -14,6 +14,8 @@
 </p>
 
 ---
+#Última versión mejorada: SolarStock_v1.8.zip
+---
 
 ## ¿Qué es SolarStock?
 
